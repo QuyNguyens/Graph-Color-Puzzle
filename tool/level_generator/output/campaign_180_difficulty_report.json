@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-11-17T23:17:41.777287",
+  "chapters": {
+    "chapter_1": {
+      "levelCount": 30,
+      "minRawScore": 1.165,
+      "maxRawScore": 1.29,
+      "avgRawScore": 1.235,
+      "minClampedScore": 1.17,
+      "maxClampedScore": 1.29,
+      "avgClampedScore": 1.24,
+      "nodeRange": [
+        4,
+        6
+      ],
+      "edgeRange": [
+        3,
+        9
+      ]
+    },
+    "chapter_2": {
+      "levelCount": 30,
+      "minRawScore": 1.907,
+      "maxRawScore": 2.03,
+      "avgRawScore": 1.967,
+      "minClampedScore": 1.91,
+      "maxClampedScore": 2.03,
+      "avgClampedScore": 1.97,
+      "nodeRange": [
+        6,
+        9
+      ],
+      "edgeRange": [
+        7,
+        13
+      ]
+    },
+    "chapter_3": {
+      "levelCount": 30,
+      "minRawScore": 2.691,
+      "maxRawScore": 2.907,
+      "avgRawScore": 2.796,
+      "minClampedScore": 2.69,
+      "maxClampedScore": 2.91,
+      "avgClampedScore": 2.8,
+      "nodeRange": [
+        8,
+        12
+      ],
+      "edgeRange": [
+        8,
+        23
+      ]
+    },
+    "chapter_4": {
+      "levelCount": 30,
+      "minRawScore": 3.506,
+      "maxRawScore": 3.724,
+      "avgRawScore": 3.611,
+      "minClampedScore": 3.51,
+      "maxClampedScore": 3.72,
+      "avgClampedScore": 3.61,
+      "nodeRange": [
+        10,
+        14
+      ],
+      "edgeRange": [
+        10,
+        27
+      ]
+    },
+    "chapter_5": {
+      "levelCount": 30,
+      "minRawScore": 4.282,
+      "maxRawScore": 4.505,
+      "avgRawScore": 4.39,
+      "minClampedScore": 4.28,
+      "maxClampedScore": 4.5,
+      "avgClampedScore": 4.39,
+      "nodeRange": [
+        12,
+        16
+      ],
+      "edgeRange": [
+        11,
+        31
+      ]
+    },
+    "chapter_6": {
+      "levelCount": 30,
+      "minRawScore": 5.186,
+      "maxRawScore": 5.501,
+      "avgRawScore": 5.337,
+      "minClampedScore": 5.0,
+      "maxClampedScore": 5.0,
+      "avgClampedScore": 5.0,
+      "nodeRange": [
+        14,
+        20
+      ],
+      "edgeRange": [
+        13,
+        39
+      ]
+    }
+  }
+}

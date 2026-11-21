@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-11-17T23:17:41.779559",
+  "totalPairsCompared": 16110,
+  "isomorphicPairsCount": 5,
+  "nonIsomorphicPairsCount": 16105,
+  "uniqueCanonicalTopologiesCount": 175,
+  "uniqueGameplaySignaturesCount": 175,
+  "isomorphicPairs": [
+    {
+      "levelA": "c1_l21",
+      "levelB": "c1_l26",
+      "indexA": 21,
+      "indexB": 26,
+      "chapterA": 1,
+      "chapterB": 1,
+      "canonicalCode": "V6:E7:010000110110011"
+    },
+    {
+      "levelA": "c1_l22",
+      "levelB": "c1_l27",
+      "indexA": 22,
+      "indexB": 27,
+      "chapterA": 1,
+      "chapterB": 1,
+      "canonicalCode": "V6:E7:101000010011110"
+    },
+    {
+      "levelA": "c1_l23",
+      "levelB": "c1_l28",
+      "indexA": 23,
+      "indexB": 28,
+      "chapterA": 1,
+      "chapterB": 1,
+      "canonicalCode": "V6:E8:110000111111000"
+    },
+    {
+      "levelA": "c1_l24",
+      "levelB": "c1_l29",
+      "indexA": 24,
+      "indexB": 29,
+      "chapterA": 1,
+      "chapterB": 1,
+      "canonicalCode": "V6:E8:100101001110011"
+    },
+    {
+      "levelA": "c1_l25",
+      "levelB": "c1_l30",
+      "indexA": 25,
+      "indexB": 30,
+      "chapterA": 1,
+      "chapterB": 1,
+      "canonicalCode": "V6:E9:100111100011110"
+    }
+  ]
+}

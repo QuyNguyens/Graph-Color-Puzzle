@@ -1,0 +1,442 @@
+{
+  "@@locale": "vi",
+  "actionHintDaily": "Gợi ý ({count}/1)",
+  "@actionHintDaily": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "actionHintMultiple": "Gợi ý ({count})",
+  "@actionHintMultiple": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "actionRestart": "Chơi lại",
+  "actionUndoAvailable": "Hoàn tác (1/1)",
+  "actionUndoUsed": "Hoàn tác (0/1)",
+  "adLoading": "Đang tải video...",
+  "adNotReady": "Quảng cáo chưa sẵn sàng. Vui lòng thử lại sau giây lát.",
+  "appDescription": "Trò chơi giải đố logic toán học dựa trên Bài toán tô màu đồ thị (Graph Coloring Problem). Thử thách tư duy logic qua 6 Chapters với 180 màn chơi được thiết kế thủ công chuẩn mực.",
+  "appLegalese": "© 2026 Graph Coloring Game.\nBản quyền mã nguồn mở tuân thủ các giấy phép thành phần tương ứng.",
+  "appName": "Graph Coloring",
+  "backTooltip": "Quay lại",
+  "boardRefreshed": "Đã làm mới bàn cờ!",
+  "buttonBackToCampaign": "Về danh sách màn chơi",
+  "buttonBackToHome": "Về màn hình chính",
+  "buttonCampaign": "Campaign",
+  "buttonCancel": "Hủy",
+  "buttonClose": "Đóng",
+  "buttonContinue": "Chơi tiếp",
+  "buttonGotIt": "Đã hiểu",
+  "buttonLater": "Để sau",
+  "buttonNextLevel": "Màn tiếp theo",
+  "buttonNextLevelWithIndex": "Màn tiếp theo ({overallIndex})",
+  "@buttonNextLevelWithIndex": {
+    "placeholders": {
+      "overallIndex": {
+        "type": "int"
+      }
+    }
+  },
+  "buttonReplay": "Chơi lại",
+  "buttonReset": "Đặt lại",
+  "buttonRestartCost": "Chơi lại (-1 ⚡)",
+  "buttonRetryLevel": "Thử lại màn này",
+  "buttonReviveWithShields": "Hồi sinh (+2 Lượt lỗi 🛡️)",
+  "buttonViewLicenses": "Xem giấy phép nguồn mở",
+  "buttonWatchAdEnergy": "Xem video (+1 ⚡)",
+  "buttonWatchAdHint": "Xem quảng cáo (+1 Gợi ý)",
+  "campaignBannerSubtitle": "180 màn chơi câu đố logic được thiết kế thủ công.",
+  "campaignBannerTitle": "Chiến dịch 6 Chapters",
+  "chapter1Subtitle": "Làm quen với luật kề và cách tô màu cơ bản",
+  "chapter1Title": "First Connection",
+  "chapter2Subtitle": "Quản lý kho màu chính xác và tránh ngõ cụt",
+  "chapter2Title": "Color Balance",
+  "chapter3Subtitle": "Tư duy chiến thuật xoay quanh các Node cố định",
+  "chapter3Title": "Locked Connections",
+  "chapter4Subtitle": "Mạng lưới kết nối phức tạp và điểm nghẽn logic",
+  "chapter4Title": "Complex Network",
+  "chapter5Subtitle": "Ràng buộc tập màu giới hạn theo từng Node",
+  "chapter5Title": "Restricted Choices",
+  "chapter6Subtitle": "Thử thách đỉnh cao kết hợp toàn bộ cơ chế",
+  "chapter6Title": "Master Network",
+  "chapterHeaderTitle": "Chapter {id}: {title}",
+  "@chapterHeaderTitle": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "chapterLevelsProgress": "Màn chơi: {completed}/{total}",
+  "@chapterLevelsProgress": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "chapterShort": "Chapter {chapterId}",
+  "@chapterShort": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      }
+    }
+  },
+  "colorBlue": "Xanh dương",
+  "colorGreen": "Xanh lá",
+  "colorPurple": "Tím",
+  "colorRed": "Đỏ",
+  "colorYellow": "Vàng",
+  "colorSymbolBlue": "X",
+  "colorSymbolGreen": "L",
+  "colorSymbolPurple": "T",
+  "colorSymbolRed": "Đ",
+  "colorSymbolYellow": "V",
+  "coloredLinesLabel": "Line màu",
+  "coloredLinesOnTooltip": "Tắt đường nối màu",
+  "coloredLinesOffTooltip": "Bật đường nối màu",
+  "coloredLinesAdDialogTitle": "LINE MÀU HẰNG NGÀY",
+  "coloredLinesDefaultNeed": "Mỗi ngày bạn có {max} lượt sử dụng Line màu miễn phí.\nXem một đoạn video ngắn để nhận thêm +1 lượt và bật Line màu!",
+  "@coloredLinesDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesDefaultWatch": "Xem một đoạn video ngắn để nhận thêm +1 lượt và bật Line màu!",
+  "coloredLinesOutOfFreeDaily": "Bạn đã dùng hết {max} lượt Line màu miễn phí hôm nay!\nHãy xem một video quảng cáo ngắn để nhận thêm +1 lượt và bật Line màu.",
+  "@coloredLinesOutOfFreeDaily": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesQuotaBadge": "Lượt Line màu: {count}/5",
+  "@coloredLinesQuotaBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesRewardSuccess": "Đã nhận +1 lượt Line màu và bật hiển thị!",
+  "coloredLinesWatchAdToUnlock": "Xem quảng cáo (+1 Lượt)",
+  "coloredLinesExhaustedToast": "Đã dùng hết 5 lượt Line màu hôm nay. Hãy xem quảng cáo để mở lại!",
+  "completedCountText": "Hoàn thành: {count}/30",
+  "@completedCountText": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "energyAdDialogTitle": "NĂNG LƯỢNG HÀNG NGÀY",
+  "energyDefaultFull": "Năng lượng của bạn đang ở mức tối đa ({max}/{max}). Bạn có thể tiếp tục chơi thoải mái!",
+  "@energyDefaultFull": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyDefaultNeed": "Bạn cần Năng lượng để Chơi lại ván này.\nXem một video quảng cáo ngắn để nạp ngay +1 Năng lượng (tối đa {max}/{max})!",
+  "@energyDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyDefaultWatch": "Xem một video quảng cáo ngắn để nạp thêm +1 Năng lượng (tối đa {max}/{max})!",
+  "@energyDefaultWatch": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyReasonContinue": "Bạn đã hết Năng lượng để tiếp tục ván chơi này.\nXem video quảng cáo để nạp ngay +1 Năng lượng và tiếp tục giải đố!",
+  "energyReasonOutOfEnergy": "Bạn đã hết Năng lượng để chơi lại. Xem quảng cáo để nhận ngay +1 Năng lượng!",
+  "energyReasonPlay": "Bạn đã hết Năng lượng để chơi màn này.\nXem video quảng cáo để nạp ngay +1 Năng lượng và bắt đầu giải đố!",
+  "energyReasonRestart": "Bạn cần ít nhất 1 Năng lượng để Chơi lại ván này.\nXem một video quảng cáo ngắn để nạp ngay +1 Năng lượng và tiếp tục chơi!",
+  "energyReasonRetry": "Bạn đã hết Năng lượng để thử lại màn chơi này.\nXem video quảng cáo để nạp ngay +1 Năng lượng và tiếp tục thử thách!",
+  "energyResetSchedule": "Tự động hồi phục 3/3 lúc 00:00 (giờ VN)",
+  "energyRewardSuccess": "Đã nạp +1 ⚡ thành công!",
+  "errorAdjacentSameColor": "Hai node nối với nhau không được có cùng màu!",
+  "errorAllNodesColored": "Tất cả các node đã được tô màu!",
+  "errorCannotEraseLocked": "Không thể xóa màu của Node bị khóa!",
+  "errorDeadEndNoSolution": "Nước đi ngõ cụt, không còn lời giải!",
+  "errorInventoryEmpty": "Màu {color} đã dùng hết số lượng trong kho!",
+  "@errorInventoryEmpty": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      }
+    }
+  },
+  "errorLockedNode": "Node đã bị khóa cố định, không thể đổi màu!",
+  "errorNoSolutionWithChoice": "Không còn cách hoàn thành với lựa chọn này.",
+  "errorOutOfEnergyAbandon": "Bạn đã hết Năng lượng (0/3). Không thể bỏ cuộc!",
+  "errorOutOfEnergyRestart": "Bạn đã hết Năng lượng (0/3). Cần Năng lượng để chơi lại!",
+  "errorOutOfEnergyRetry": "Bạn đã hết Năng lượng (0/3). Cần Năng lượng để thử lại!",
+  "errorOutOfMistakes": "Bạn đã hết lượt lỗi! Màn chơi kết thúc.",
+  "errorRestrictedColor": "Node này không cho phép sử dụng màu {color}!",
+  "@errorRestrictedColor": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      }
+    }
+  },
+  "errorUndoLimit": "Mỗi màn chơi chỉ được hoàn tác tối đa 1 lần!",
+  "finaleBadge": "FINALE",
+  "gameInfoTooltip": "Thông tin trò chơi",
+  "gameOverBannerText": "Hết lượt lỗi! Vui lòng chơi lại màn này.",
+  "gameOverEnergyBadge": "Năng lượng: {current}/{max}",
+  "@gameOverEnergyBadge": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "gameOverMessage": "Bạn đã dùng hết 2 lượt lỗi cho màn chơi này.\nHãy thử lại hoặc xem quảng cáo để nhận thêm lượt lỗi nhé!",
+  "gameOverRechargeTag": "+ Nạp ⚡",
+  "gameOverTitle": "HẾT LƯỢT LỖI",
+  "greetingChapter1Finale": "Chung Kết Chapter 1: Vương Miện Ngũ Sắc!",
+  "greetingGreenUnlocked": "Mở khóa Màu Xanh lá! Mạng lưới 4 màu xuất hiện.",
+  "greetingPurpleUnlocked": "Mở khóa Màu Tím! Chinh phục phổ 5 màu trọn vẹn.",
+  "greetingYellowUnlocked": "Mở khóa Màu Vàng! Thử thách 3 màu bắt đầu.",
+  "hintAdDialogTitle": "NHẬN THÊM GỢI Ý",
+  "hintBoardChanged": "Bàn cờ đã thay đổi và không còn lời giải hợp lệ từ thế cờ này.",
+  "hintCountBadge": "Lượt gợi ý: {count}",
+  "@hintCountBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hintCurrentInstruction": "Gợi ý hiện tại: Hãy tô màu {color} cho node {nodeId}.",
+  "@hintCurrentInstruction": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      },
+      "nodeId": {
+        "type": "String"
+      }
+    }
+  },
+  "hintDefaultNeed": "Mỗi ngày bạn có {max} lượt gợi ý miễn phí.\nXem một đoạn quảng cáo ngắn để nhận thêm +1 lượt Gợi ý giải đố!",
+  "@hintDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "hintDefaultWatch": "Xem một đoạn quảng cáo ngắn để tích lũy thêm +1 lượt Gợi ý giải đố!",
+  "hintNoSolutionFound": "Không tìm thấy lời giải hợp lệ từ thế cờ hiện tại. Hãy thử Hoàn tác (Undo) hoặc Chơi lại!",
+  "hintOutOfFreeDaily": "Bạn đã dùng hết lượt gợi ý miễn phí hôm nay! Hãy xem quảng cáo để nhận thêm.",
+  "hintReceivedToast": "Đã nhận +1 Gợi ý! 💡",
+  "hintRewardSuccess": "Đã nhận +1 Gợi ý thành công! 💡",
+  "hintSuggestion": "Gợi ý: Hãy tô màu {color} cho node {nodeId}.",
+  "@hintSuggestion": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      },
+      "nodeId": {
+        "type": "String"
+      }
+    }
+  },
+  "homeTooltip": "Về trang chủ",
+  "inProgressBadge": "ĐANG DỞ DANG",
+  "instructionsBannerText": "Kéo màu hoặc chạm chọn màu rồi chạm node. Nhấn node để xóa.\nNước đi dẫn đến ngõ cụt sẽ bị trừ 1 lượt lỗi.",
+  "levelCompletedBannerDescEarned": "Đạt {stars}/3 sao! Kho màu đạt chuẩn.",
+  "@levelCompletedBannerDescEarned": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      }
+    }
+  },
+  "levelCompletedBannerDescGeneric": "Tất cả node đã tô hợp lệ và kho màu đạt chuẩn!",
+  "levelCompletedBannerTitle": "HOÀN THÀNH MÀN CHƠI!{stars}",
+  "@levelCompletedBannerTitle": {
+    "placeholders": {
+      "stars": {
+        "type": "String"
+      }
+    }
+  },
+  "levelHeaderFallback": "Màn chơi",
+  "levelHeaderTitle": "Chapter {chapterId} - Màn {levelNumber}: {title}",
+  "@levelHeaderTitle": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      },
+      "levelNumber": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "levelTitleWithIndex": "Màn {overallIndex}: {title}",
+  "@levelTitleWithIndex": {
+    "placeholders": {
+      "overallIndex": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "levelsRange": "Màn {start} – {end}",
+  "@levelsRange": {
+    "placeholders": {
+      "start": {
+        "type": "int"
+      },
+      "end": {
+        "type": "int"
+      }
+    }
+  },
+  "mistakePenaltyTag": "-1 LỖI",
+  "mistakesBadge": "Lỗi: {count}/2",
+  "@mistakesBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "resetProgressButton": "Đặt lại toàn bộ tiến trình",
+  "resetProgressConfirmMessage": "Thao tác này sẽ xóa toàn bộ tiến trình chơi, số sao đạt được và ván chơi đang lưu, đưa game về trạng thái ban đầu.",
+  "resetProgressConfirmTitle": "Đặt lại toàn bộ tiến trình?",
+  "resetProgressSuccessToast": "Đã đặt lại toàn bộ game về trạng thái ban đầu.",
+  "restartConfirmContent": "Chơi lại màn này sẽ tiêu hao 1 Năng lượng (còn lại: {energy}/{max}).\nToàn bộ các nước đi đã tô sẽ được đưa về trạng thái ban đầu.",
+  "@restartConfirmContent": {
+    "placeholders": {
+      "energy": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "restartConfirmTitle": "Chơi lại màn này?",
+  "restartFreeTooltip": "Chơi lại",
+  "revivedSuccessToast": "Đã hồi sinh! Bạn nhận thêm 2 lượt lỗi 🛡️",
+  "soundOffTooltip": "Tắt âm thanh",
+  "soundOnTooltip": "Bật âm thanh",
+  "starsCountText": "Sao: {stars}/90",
+  "@starsCountText": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      }
+    }
+  },
+  "statEnergy": "Năng lượng",
+  "statLevels": "Màn chơi",
+  "statTotalStars": "Tổng sao",
+  "tapToContinue": "Nhấn để tiếp tục màn chơi",
+  "unlockChapterRequirement": "Hoàn thành Chapter {chapterId} để mở khóa",
+  "@unlockChapterRequirement": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      }
+    }
+  },
+  "victoryCampaignFinalMessage": "Chúc mừng bạn đã xuất sắc phá đảo toàn bộ 180 màn chơi của Graph Coloring!",
+  "victoryCampaignFinalTitle": "CHIẾN THẮNG CAMPAIGN!",
+  "victoryStarsSummary": "Lượt chơi: {earned}/3 sao • Kỷ lục: {best}/3 sao",
+  "@victoryStarsSummary": {
+    "placeholders": {
+      "earned": {
+        "type": "int"
+      },
+      "best": {
+        "type": "int"
+      }
+    }
+  },
+  "victoryTitle": "HOÀN THÀNH MÀN CHƠI!",
+  "howToPlayButton": "Hướng dẫn chơi",
+  "howToPlayTooltip": "Xem hướng dẫn chơi",
+  "howToPlayBannerTitle": "Hướng dẫn chơi Graph Coloring",
+  "howToPlayBannerSubtitle": "Nắm vững luật chơi và mẹo giải đố trong 6 bước",
+  "tutorialTitle": "Hướng dẫn chơi",
+  "tutorialStepProgress": "Bước {current} / {total}",
+  "@tutorialStepProgress": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "tutorialButtonNext": "Tiếp theo",
+  "tutorialButtonPrevious": "Trước",
+  "tutorialButtonSkip": "Bỏ qua",
+  "tutorialButtonStart": "Bắt đầu chơi",
+  "tutorialStep1Title": "Chào mừng đến với Graph Coloring",
+  "tutorialStep1Subtitle": "Câu đố logic toán học",
+  "tutorialStep1Description": "Graph Coloring là trò chơi giải đố logic dựa trên bài toán tô màu đồ thị nổi tiếng. Nhiệm vụ của bạn là tô màu tất cả các đỉnh trong mạng lưới sao cho thỏa mãn quy tắc kết nối và số lượng bóng quy định.",
+  "tutorialStep2Title": "Đỉnh, Cạnh & Quy tắc cốt lõi",
+  "tutorialStep2Subtitle": "Quy tắc vàng trong tô màu",
+  "tutorialStep2Description": "• Đỉnh (Nodes): Các hình tròn trên bàn cờ cần được tô màu.\n• Cạnh (Edges): Các đường thẳng nối giữa hai đỉnh. Bạn có thể bật/tắt vẽ đường nối màu bằng biểu tượng trên thanh công cụ (5 lượt miễn phí mỗi ngày).\n• Quy tắc vàng: Hai đỉnh được nối trực tiếp với nhau TUYỆT ĐỐI KHÔNG ĐƯỢC có cùng màu!",
+  "tutorialValidLabel": "Hợp lệ",
+  "tutorialValidDesc": "Hai đỉnh kề mang màu khác nhau",
+  "tutorialConflictLabel": "Xung đột!",
+  "tutorialConflictDesc": "Hai đỉnh kề không được trùng màu",
+  "tutorialStep3Title": "Cách chọn & tô màu",
+  "tutorialStep3Subtitle": "Hai cách thao tác thuận tiện",
+  "tutorialStep3Description": "• Chạm để chọn: Chạm vào màu ở thanh công cụ bên dưới, sau đó chạm vào đỉnh để tô màu.\n• Kéo & Thả: Chạm và kéo quả bóng màu trực tiếp vào đỉnh muốn tô.\n• Xóa màu: Chạm vào đỉnh đã tô khi không chọn màu nào để thu hồi bóng về kho.",
+  "tutorialTapToSelectLabel": "Chạm hoặc Kéo thả",
+  "tutorialStep4Title": "Giới hạn kho màu chính xác",
+  "tutorialStep4Subtitle": "Phải sử dụng đúng số lượng màu",
+  "tutorialStep4Description": "• Mỗi màn chơi quy định số lượng bóng chính xác cho từng màu.\n• Con số bên dưới mỗi màu cho biết số lượng bóng còn lại trong kho.\n• Để chiến thắng, bạn phải sử dụng chính xác 100% toàn bộ số bóng được giao — không thừa và không thiếu!",
+  "tutorialInventoryGoalLabel": "Mục tiêu: Dùng hết bóng (còn lại 0)",
+  "tutorialStep5Title": "Công cụ hỗ trợ & Khiên lỗi",
+  "tutorialStep5Subtitle": "Hoàn tác, Gợi ý, Chơi lại & Khiên lỗi",
+  "tutorialStep5Description": "• Hoàn tác (1 lượt/màn): Đảo ngược nước đi gần nhất. Mỗi màn được hoàn tác 1 lần.\n• Gợi ý (1 lượt/ngày): Chỉ dẫn nước đi chính xác theo thuật toán giải. Xem quảng cáo để nhận thêm gợi ý.\n• Chơi lại: Đặt lại bàn cờ. Miễn phí nếu chưa đặt bóng; tốn 1 Năng lượng nếu đã đặt bóng.\n• Khiên lỗi (2 🛡️): Bạn được phép phạm tối đa 2 lần đi sai trước khi hết lượt và kết thúc ván chơi.\n• Line màu (5 lượt/ngày): Mỗi ngày bạn có 5 lượt mở vẽ line màu. Khi bật, mỗi màn chơi xong (hoàn thành hoặc thất bại) sẽ trừ 1 lượt. Hết lượt có thể xem quảng cáo để mở thêm.",
+  "tutorialActionUndo": "Hoàn tác",
+  "tutorialActionHint": "Gợi ý",
+  "tutorialActionRestart": "Chơi lại",
+  "tutorialActionShields": "Khiên lỗi",
+  "tutorialStep6Title": "Chiến thắng & Chinh phục",
+  "tutorialStep6Subtitle": "Vượt màn chơi và thu thập sao",
+  "tutorialStep6Description": "Để vượt qua màn chơi:\n1. Tất cả các đỉnh đều được tô màu.\n2. Không có hai đỉnh nối nhau nào bị trùng màu.\n3. Dùng hết chính xác 100% số lượng bóng trong kho.\nChinh phục 3 Sao qua 180 màn chơi trong 6 Chapter. Chúc bạn chơi vui vẻ!",
+  "tutorialReadyTitle": "Bạn đã sẵn sàng!"
+}

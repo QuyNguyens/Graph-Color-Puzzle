@@ -1,0 +1,442 @@
+{
+  "@@locale": "en",
+  "actionHintDaily": "Hint ({count}/1)",
+  "@actionHintDaily": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "actionHintMultiple": "Hint ({count})",
+  "@actionHintMultiple": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "actionRestart": "Restart",
+  "actionUndoAvailable": "Undo (1/1)",
+  "actionUndoUsed": "Undo (0/1)",
+  "adLoading": "Loading video...",
+  "adNotReady": "Ad is not ready yet. Please try again in a moment.",
+  "appDescription": "Mathematical logic puzzle game based on the Graph Coloring Problem. Challenge your logical thinking across 6 Chapters with 180 handcrafted levels.",
+  "appLegalese": "© 2026 Graph Coloring Game.\nOpen source compliant with respective component licenses.",
+  "appName": "Graph Coloring",
+  "backTooltip": "Back",
+  "boardRefreshed": "Board refreshed!",
+  "buttonBackToCampaign": "Back to Levels",
+  "buttonBackToHome": "Back to Home",
+  "buttonCampaign": "Campaign",
+  "buttonCancel": "Cancel",
+  "buttonClose": "Close",
+  "buttonContinue": "Continue",
+  "buttonGotIt": "Got It",
+  "buttonLater": "Not Now",
+  "buttonNextLevel": "Next Level",
+  "buttonNextLevelWithIndex": "Next Level ({overallIndex})",
+  "@buttonNextLevelWithIndex": {
+    "placeholders": {
+      "overallIndex": {
+        "type": "int"
+      }
+    }
+  },
+  "buttonReplay": "Replay",
+  "buttonReset": "Reset",
+  "buttonRestartCost": "Restart (-1 ⚡)",
+  "buttonRetryLevel": "Retry This Level",
+  "buttonReviveWithShields": "Revive (+2 Mistake Shields 🛡️)",
+  "buttonViewLicenses": "View Open Source Licenses",
+  "buttonWatchAdEnergy": "Watch Video (+1 ⚡)",
+  "buttonWatchAdHint": "Watch Ad (+1 Hint)",
+  "campaignBannerSubtitle": "180 handcrafted logic puzzle levels.",
+  "campaignBannerTitle": "6-Chapter Campaign",
+  "chapter1Subtitle": "Learn adjacency rules and basic coloring",
+  "chapter1Title": "First Connection",
+  "chapter2Subtitle": "Manage color inventory and avoid dead ends",
+  "chapter2Title": "Color Balance",
+  "chapter3Subtitle": "Strategic thinking around locked nodes",
+  "chapter3Title": "Locked Connections",
+  "chapter4Subtitle": "Complex network and logical bottlenecks",
+  "chapter4Title": "Complex Network",
+  "chapter5Subtitle": "Color set restrictions per node",
+  "chapter5Title": "Restricted Choices",
+  "chapter6Subtitle": "The ultimate challenge combining all mechanics",
+  "chapter6Title": "Master Network",
+  "chapterHeaderTitle": "Chapter {id}: {title}",
+  "@chapterHeaderTitle": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "chapterLevelsProgress": "Levels: {completed}/{total}",
+  "@chapterLevelsProgress": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "chapterShort": "Chapter {chapterId}",
+  "@chapterShort": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      }
+    }
+  },
+  "colorBlue": "Blue",
+  "colorGreen": "Green",
+  "colorPurple": "Purple",
+  "colorRed": "Red",
+  "colorYellow": "Yellow",
+  "colorSymbolBlue": "B",
+  "colorSymbolGreen": "G",
+  "colorSymbolPurple": "P",
+  "colorSymbolRed": "R",
+  "colorSymbolYellow": "Y",
+  "coloredLinesLabel": "Colored Lines",
+  "coloredLinesOnTooltip": "Turn off colored lines",
+  "coloredLinesOffTooltip": "Turn on colored lines",
+  "coloredLinesAdDialogTitle": "DAILY COLORED LINES",
+  "coloredLinesDefaultNeed": "You get {max} free Colored Lines turns each day.\nWatch a short video ad to get +1 turn and enable Colored Lines!",
+  "@coloredLinesDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesDefaultWatch": "Watch a short video ad to get +1 turn and enable Colored Lines!",
+  "coloredLinesOutOfFreeDaily": "You've used all {max} free Colored Lines turns today!\nWatch a short video ad to get +1 turn and enable Colored Lines.",
+  "@coloredLinesOutOfFreeDaily": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesQuotaBadge": "Line turns: {count}/5",
+  "@coloredLinesQuotaBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "coloredLinesRewardSuccess": "Earned +1 Colored Lines turn and enabled!",
+  "coloredLinesWatchAdToUnlock": "Watch Ad (+1 Turn)",
+  "coloredLinesExhaustedToast": "You've used all 5 Colored Lines turns today. Watch an ad to unlock more!",
+  "completedCountText": "Completed: {count}/30",
+  "@completedCountText": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "energyAdDialogTitle": "DAILY ENERGY",
+  "energyDefaultFull": "Your Energy is at maximum ({max}/{max}). Enjoy playing freely!",
+  "@energyDefaultFull": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyDefaultNeed": "You need Energy to restart this puzzle.\nWatch a short video ad to restore +1 Energy (up to {max}/{max})!",
+  "@energyDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyDefaultWatch": "Watch a short video ad to restore +1 Energy (up to {max}/{max})!",
+  "@energyDefaultWatch": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "energyReasonContinue": "You are out of Energy to continue this puzzle.\nWatch a video ad to restore +1 Energy and keep solving!",
+  "energyReasonOutOfEnergy": "You are out of Energy. Watch an ad to get +1 Energy!",
+  "energyReasonPlay": "You are out of Energy to play this level.\nWatch a video ad to restore +1 Energy and start solving!",
+  "energyReasonRestart": "You need at least 1 Energy to restart this level.\nWatch a short video ad to restore +1 Energy and keep playing!",
+  "energyReasonRetry": "You are out of Energy to retry this level.\nWatch a video ad to restore +1 Energy and challenge again!",
+  "energyResetSchedule": "Auto-restores 3/3 at 00:00 (VN time)",
+  "energyRewardSuccess": "Recharged +1 ⚡ successfully!",
+  "errorAdjacentSameColor": "Connected nodes cannot have the same color!",
+  "errorAllNodesColored": "All nodes are already colored!",
+  "errorCannotEraseLocked": "Cannot erase color from a locked node!",
+  "errorDeadEndNoSolution": "Dead end, no solution remains!",
+  "errorInventoryEmpty": "All {color} balls have been used from inventory!",
+  "@errorInventoryEmpty": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      }
+    }
+  },
+  "errorLockedNode": "Node is locked and cannot change color!",
+  "errorNoSolutionWithChoice": "No way to complete with this choice.",
+  "errorOutOfEnergyAbandon": "You are out of Energy (0/3). Cannot abandon!",
+  "errorOutOfEnergyRestart": "You are out of Energy (0/3). Energy needed to restart!",
+  "errorOutOfEnergyRetry": "You are out of Energy (0/3). Energy needed to retry!",
+  "errorOutOfMistakes": "You have used all mistake shields! Level over.",
+  "errorRestrictedColor": "This node does not allow {color}!",
+  "@errorRestrictedColor": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      }
+    }
+  },
+  "errorUndoLimit": "Undo can only be used at most once per level!",
+  "finaleBadge": "FINALE",
+  "gameInfoTooltip": "Game Information",
+  "gameOverBannerText": "Out of mistakes! Please replay this level.",
+  "gameOverEnergyBadge": "Energy: {current}/{max}",
+  "@gameOverEnergyBadge": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "gameOverMessage": "You have used all 2 mistakes for this level.\nTry again or watch an ad to get extra mistake shields!",
+  "gameOverRechargeTag": "+ Refill ⚡",
+  "gameOverTitle": "OUT OF MISTAKES",
+  "greetingChapter1Finale": "Chapter 1 Finale: The 5-Color Crown!",
+  "greetingGreenUnlocked": "Green Color unlocked! 4-color network appears.",
+  "greetingPurpleUnlocked": "Purple Color unlocked! Conquer the full 5-color spectrum.",
+  "greetingYellowUnlocked": "Yellow Color unlocked! 3-color challenge begins.",
+  "hintAdDialogTitle": "GET MORE HINTS",
+  "hintBoardChanged": "Board has changed and no valid solution remains from this state.",
+  "hintCountBadge": "Hints: {count}",
+  "@hintCountBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hintCurrentInstruction": "Current hint: Color node {nodeId} with {color}.",
+  "@hintCurrentInstruction": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      },
+      "nodeId": {
+        "type": "String"
+      }
+    }
+  },
+  "hintDefaultNeed": "You get {max} free hint daily.\nWatch a short video ad to get +1 puzzle hint!",
+  "@hintDefaultNeed": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "hintDefaultWatch": "Watch a short video ad to collect +1 puzzle hint!",
+  "hintNoSolutionFound": "No valid solution found from current state. Try Undo or Restart!",
+  "hintOutOfFreeDaily": "You have used all free hints today! Watch an ad to get more.",
+  "hintReceivedToast": "+1 Hint received! 💡",
+  "hintRewardSuccess": "Received +1 Hint successfully! 💡",
+  "hintSuggestion": "Hint: Color node {nodeId} with {color}.",
+  "@hintSuggestion": {
+    "placeholders": {
+      "color": {
+        "type": "String"
+      },
+      "nodeId": {
+        "type": "String"
+      }
+    }
+  },
+  "homeTooltip": "Home",
+  "inProgressBadge": "IN PROGRESS",
+  "instructionsBannerText": "Drag color or tap to select color, then tap node. Tap node to erase.\nMoves leading to a dead end will cost 1 mistake shield.",
+  "levelCompletedBannerDescEarned": "Earned {stars}/3 stars! Color inventory verified.",
+  "@levelCompletedBannerDescEarned": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      }
+    }
+  },
+  "levelCompletedBannerDescGeneric": "All nodes validly colored and inventory verified!",
+  "levelCompletedBannerTitle": "LEVEL COMPLETED!{stars}",
+  "@levelCompletedBannerTitle": {
+    "placeholders": {
+      "stars": {
+        "type": "String"
+      }
+    }
+  },
+  "levelHeaderFallback": "Puzzle Level",
+  "levelHeaderTitle": "Chapter {chapterId} - Level {levelNumber}: {title}",
+  "@levelHeaderTitle": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      },
+      "levelNumber": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "levelTitleWithIndex": "Level {overallIndex}: {title}",
+  "@levelTitleWithIndex": {
+    "placeholders": {
+      "overallIndex": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "levelsRange": "Levels {start} – {end}",
+  "@levelsRange": {
+    "placeholders": {
+      "start": {
+        "type": "int"
+      },
+      "end": {
+        "type": "int"
+      }
+    }
+  },
+  "mistakePenaltyTag": "-1 MISTAKE",
+  "mistakesBadge": "Mistakes: {count}/2",
+  "@mistakesBadge": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "resetProgressButton": "Reset All Progress",
+  "resetProgressConfirmMessage": "This will clear all game progress, earned stars, and saved sessions, resetting the game to its initial state.",
+  "resetProgressConfirmTitle": "Reset All Progress?",
+  "resetProgressSuccessToast": "All game progress has been reset to initial state.",
+  "restartConfirmContent": "Restarting will consume 1 Energy (remaining: {energy}/{max}).\nAll colored moves will be reset to initial state.",
+  "@restartConfirmContent": {
+    "placeholders": {
+      "energy": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "restartConfirmTitle": "Restart this level?",
+  "restartFreeTooltip": "Restart",
+  "revivedSuccessToast": "Revived! Received +2 Mistake Shields 🛡️",
+  "soundOffTooltip": "Mute sound",
+  "soundOnTooltip": "Unmute sound",
+  "starsCountText": "Stars: {stars}/90",
+  "@starsCountText": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      }
+    }
+  },
+  "statEnergy": "Energy",
+  "statLevels": "Levels",
+  "statTotalStars": "Total Stars",
+  "tapToContinue": "Tap to continue level",
+  "unlockChapterRequirement": "Complete Chapter {chapterId} to unlock",
+  "@unlockChapterRequirement": {
+    "placeholders": {
+      "chapterId": {
+        "type": "int"
+      }
+    }
+  },
+  "victoryCampaignFinalMessage": "Congratulations! You have conquered all 180 levels of Graph Coloring!",
+  "victoryCampaignFinalTitle": "CAMPAIGN CONQUERED!",
+  "victoryStarsSummary": "This round: {earned}/3 stars • Record: {best}/3 stars",
+  "@victoryStarsSummary": {
+    "placeholders": {
+      "earned": {
+        "type": "int"
+      },
+      "best": {
+        "type": "int"
+      }
+    }
+  },
+  "victoryTitle": "LEVEL COMPLETED!",
+  "howToPlayButton": "How to Play",
+  "howToPlayTooltip": "How to Play tutorial",
+  "howToPlayBannerTitle": "How to Play Graph Coloring",
+  "howToPlayBannerSubtitle": "Learn rules and tips in 6 easy steps",
+  "tutorialTitle": "How to Play",
+  "tutorialStepProgress": "Step {current} of {total}",
+  "@tutorialStepProgress": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "tutorialButtonNext": "Next",
+  "tutorialButtonPrevious": "Previous",
+  "tutorialButtonSkip": "Skip",
+  "tutorialButtonStart": "Start Playing",
+  "tutorialStep1Title": "Welcome to Graph Coloring",
+  "tutorialStep1Subtitle": "Mathematical Logic Puzzle",
+  "tutorialStep1Description": "Graph Coloring is a logic puzzle based on graph theory. Your mission is to color every node in the network while strictly respecting connection rules and color inventory requirements.",
+  "tutorialStep2Title": "Nodes & Connection Rules",
+  "tutorialStep2Subtitle": "The Golden Rule of Coloring",
+  "tutorialStep2Description": "• Nodes (Circles): Points on the board that need coloring.\n• Edges (Lines): Connections between two nodes. You can toggle colored lines using the toolbar icon (5 free turns daily).\n• Golden Rule: Two directly connected nodes can NEVER share the same color!",
+  "tutorialValidLabel": "Valid",
+  "tutorialValidDesc": "Different colors on adjacent nodes",
+  "tutorialConflictLabel": "Conflict!",
+  "tutorialConflictDesc": "Connected nodes cannot have same color",
+  "tutorialStep3Title": "Select & Place Colors",
+  "tutorialStep3Subtitle": "Two intuitive ways to play",
+  "tutorialStep3Description": "• Tap-to-Select: Tap a color from the inventory at the bottom, then tap any node to place it.\n• Drag & Drop: Touch and drag a color ball directly onto the target node.\n• Remove Color: Tap an already colored node without selecting any color to return it to inventory.",
+  "tutorialTapToSelectLabel": "Tap or Drag",
+  "tutorialStep4Title": "Exact Color Inventory",
+  "tutorialStep4Subtitle": "Every ball must be used",
+  "tutorialStep4Description": "• Each level provides an exact number of balls for each color.\n• The number below each color shows remaining balls.\n• To win, you must place 100% of the required balls — no more, no less!",
+  "tutorialInventoryGoalLabel": "Goal: Use all available balls (0 remaining)",
+  "tutorialStep5Title": "Actions & Mistake Shields",
+  "tutorialStep5Subtitle": "Undo, Hint, Restart & Shields",
+  "tutorialStep5Description": "• Undo (1/level): Reverse your previous move. Allowed 1 time per level.\n• Hint (1/day): Reveals a guaranteed valid move. Watch ads for extra hints.\n• Restart: Reset board. Free if no balls placed; costs 1 Energy if balls were placed.\n• Mistake Shields (2 🛡️): You can make up to 2 mistakes before Game Over.\n• Colored Lines (5 turns/day): You have 5 free Colored Lines turns each day. When enabled, finishing a level (win or defeat) deducts 1 turn. When exhausted, watch an ad to unlock more.",
+  "tutorialActionUndo": "Undo",
+  "tutorialActionHint": "Hint",
+  "tutorialActionRestart": "Restart",
+  "tutorialActionShields": "Shields",
+  "tutorialStep6Title": "Victory & Progression",
+  "tutorialStep6Subtitle": "Solve puzzles and earn stars",
+  "tutorialStep6Description": "To complete a level:\n1. All nodes are colored.\n2. No adjacent nodes share the same color.\n3. All color counts are exactly satisfied.\nEarn up to 3 Stars across 180 levels in 6 Chapters. Enjoy the game!",
+  "tutorialReadyTitle": "You are ready to play!"
+}

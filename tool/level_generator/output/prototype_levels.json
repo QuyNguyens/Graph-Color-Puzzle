@@ -1,0 +1,2397 @@
+{
+  "generatedAt": "2026-11-17T22:26:56.489308",
+  "totalCandidates": 12,
+  "totalValid": 12,
+  "duplicateTopologyCount": 0,
+  "duplicateGameplayCount": 0,
+  "levels": [
+    {
+      "id": "proto_c1_l01",
+      "chapterId": 1,
+      "levelNumber": 1,
+      "overallIndex": 1,
+      "title": "Nhánh Cây Đầu Tiên",
+      "difficulty": 1.0,
+      "calculatedDifficulty": 1.19,
+      "nodeCount": 5,
+      "edgeCount": 4,
+      "colorCount": 2,
+      "density": 0.4,
+      "lockedNodes": 0,
+      "restrictedNodes": 0,
+      "solutionCount": 1,
+      "minNodeDistance": 0.2,
+      "signatures": {
+        "topology": "6ad6700fbae0c5d6",
+        "layout": "2402ed78782278d3",
+        "gameplay": "-a0628a04ede89eb"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 2
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.55,
+          "y": 0.2,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.35,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.75,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.25,
+          "y": 0.8,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.45,
+          "y": 0.8,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n2",
+          "n4"
+        ],
+        [
+          "n2",
+          "n5"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c1_l02",
+      "chapterId": 1,
+      "levelNumber": 2,
+      "overallIndex": 2,
+      "title": "Bậc Thang Lục Điểm",
+      "difficulty": 1.1,
+      "calculatedDifficulty": 1.26,
+      "nodeCount": 6,
+      "edgeCount": 7,
+      "colorCount": 2,
+      "density": 0.467,
+      "lockedNodes": 0,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.25,
+      "signatures": {
+        "topology": "-53256388f846d2a8",
+        "layout": "-1c7dadd06daf94b4",
+        "gameplay": "-6d24b1a1faadbdbf"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 3
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.25,
+          "y": 0.3,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.5,
+          "y": 0.3,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.75,
+          "y": 0.3,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.25,
+          "y": 0.7,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.5,
+          "y": 0.7,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.75,
+          "y": 0.7,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n1",
+          "n4"
+        ],
+        [
+          "n2",
+          "n5"
+        ],
+        [
+          "n3",
+          "n6"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c2_l01",
+      "chapterId": 2,
+      "levelNumber": 1,
+      "overallIndex": 31,
+      "title": "Bánh Xe Tam Sắc",
+      "difficulty": 1.8,
+      "calculatedDifficulty": 1.98,
+      "nodeCount": 7,
+      "edgeCount": 12,
+      "colorCount": 3,
+      "density": 0.571,
+      "lockedNodes": 0,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.33961154279558875,
+      "signatures": {
+        "topology": "3e0b9ec2d62363c5",
+        "layout": "-38b662f7e58b1a24",
+        "gameplay": "-29ab98e145857176"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 3,
+        "YELLOW": 1
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.5,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.5,
+          "y": 0.16,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.794,
+          "y": 0.33,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.794,
+          "y": 0.67,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.5,
+          "y": 0.84,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.206,
+          "y": 0.67,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.206,
+          "y": 0.33,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n1",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n1",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n1",
+          "n6"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n1",
+          "n7"
+        ],
+        [
+          "n7",
+          "n2"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c2_l02",
+      "chapterId": 2,
+      "levelNumber": 2,
+      "overallIndex": 32,
+      "title": "Chuỗi Tam Giác Kép",
+      "difficulty": 2.0,
+      "calculatedDifficulty": 1.99,
+      "nodeCount": 8,
+      "edgeCount": 11,
+      "colorCount": 3,
+      "density": 0.393,
+      "lockedNodes": 0,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.20099999999999996,
+      "signatures": {
+        "topology": "1ade599916012951",
+        "layout": "-72be3a3aa33eb536",
+        "gameplay": "-2a5d41f074f9790"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 2,
+        "YELLOW": 3
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.15,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.28,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.4,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.501,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.601,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.72,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.85,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.495,
+          "y": 0.501,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n2",
+          "n4"
+        ],
+        [
+          "n3",
+          "n5"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n4",
+          "n6"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n4",
+          "n8"
+        ],
+        [
+          "n5",
+          "n8"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c3_l01",
+      "chapterId": 3,
+      "levelNumber": 1,
+      "overallIndex": 61,
+      "title": "Cầu Nối Song Đỉnh",
+      "difficulty": 2.5,
+      "calculatedDifficulty": 2.75,
+      "nodeCount": 9,
+      "edgeCount": 12,
+      "colorCount": 3,
+      "density": 0.333,
+      "lockedNodes": 1,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.16499999999999998,
+      "signatures": {
+        "topology": "-e3d79d885b828be",
+        "layout": "-3c2abd83f7edc3d3",
+        "gameplay": "-426456a5a32a1391"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 3,
+        "YELLOW": 3
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.15,
+          "y": 0.4,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.15,
+          "y": 0.7,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.335,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.25,
+          "y": 0.22,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.5,
+          "y": 0.5,
+          "isLocked": true,
+          "currentColor": "YELLOW",
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.665,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.85,
+          "y": 0.3,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.85,
+          "y": 0.6,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.75,
+          "y": 0.78,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n1",
+          "n4"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n3",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n7",
+          "n9"
+        ],
+        [
+          "n8",
+          "n9"
+        ],
+        [
+          "n6",
+          "n9"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c3_l02",
+      "chapterId": 3,
+      "levelNumber": 2,
+      "overallIndex": 62,
+      "title": "Bánh Xe Tinh Tú",
+      "difficulty": 2.8,
+      "calculatedDifficulty": 2.93,
+      "nodeCount": 11,
+      "edgeCount": 17,
+      "colorCount": 4,
+      "density": 0.309,
+      "lockedNodes": 2,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.17936833611315015,
+      "signatures": {
+        "topology": "-164e9207da8f9de3",
+        "layout": "541d2e31bd9dba87",
+        "gameplay": "5cbd6d621e2fbbb4"
+      },
+      "inventory": {
+        "RED": 2,
+        "BLUE": 1,
+        "YELLOW": 4,
+        "GREEN": 4
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.45,
+          "y": 0.475,
+          "isLocked": true,
+          "currentColor": "GREEN",
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.45,
+          "y": 0.225,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.688,
+          "y": 0.398,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.597,
+          "y": 0.677,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.303,
+          "y": 0.677,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.212,
+          "y": 0.398,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.8,
+          "y": 0.175,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.85,
+          "y": 0.475,
+          "isLocked": true,
+          "currentColor": "GREEN",
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.8,
+          "y": 0.775,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.2,
+          "y": 0.825,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.15,
+          "y": 0.175,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n1",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n1",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n1",
+          "n6"
+        ],
+        [
+          "n6",
+          "n2"
+        ],
+        [
+          "n2",
+          "n7"
+        ],
+        [
+          "n3",
+          "n8"
+        ],
+        [
+          "n4",
+          "n9"
+        ],
+        [
+          "n5",
+          "n10"
+        ],
+        [
+          "n6",
+          "n11"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n8",
+          "n9"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c4_l01",
+      "chapterId": 4,
+      "levelNumber": 1,
+      "overallIndex": 91,
+      "title": "Lục Giác Giao Thoa",
+      "difficulty": 3.2,
+      "calculatedDifficulty": 3.61,
+      "nodeCount": 12,
+      "edgeCount": 15,
+      "colorCount": 4,
+      "density": 0.227,
+      "lockedNodes": 2,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.16400000000000003,
+      "signatures": {
+        "topology": "79add462e85466fe",
+        "layout": "40fc6e4e6b0a1b8d",
+        "gameplay": "5c4bf87dd6e4a84c"
+      },
+      "inventory": {
+        "RED": 1,
+        "BLUE": 5,
+        "YELLOW": 5,
+        "GREEN": 1
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.15,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.242,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.408,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.48,
+          "y": 0.4,
+          "isLocked": true,
+          "currentColor": "YELLOW",
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.408,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.242,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.52,
+          "y": 0.6,
+          "isLocked": true,
+          "currentColor": "BLUE",
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.593,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.757,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.85,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.757,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.593,
+          "y": 0.75,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n1"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n8",
+          "n9"
+        ],
+        [
+          "n9",
+          "n10"
+        ],
+        [
+          "n10",
+          "n11"
+        ],
+        [
+          "n11",
+          "n12"
+        ],
+        [
+          "n12",
+          "n7"
+        ],
+        [
+          "n4",
+          "n7"
+        ],
+        [
+          "n3",
+          "n8"
+        ],
+        [
+          "n5",
+          "n12"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c4_l02",
+      "chapterId": 4,
+      "levelNumber": 2,
+      "overallIndex": 92,
+      "title": "Tứ Trận Cầu Nối",
+      "difficulty": 3.5,
+      "calculatedDifficulty": 3.71,
+      "nodeCount": 14,
+      "edgeCount": 21,
+      "colorCount": 4,
+      "density": 0.231,
+      "lockedNodes": 2,
+      "restrictedNodes": 0,
+      "solutionCount": 2,
+      "minNodeDistance": 0.164048773235279,
+      "signatures": {
+        "topology": "-680da2bab84caf37",
+        "layout": "-324ff5c5671ea8ec",
+        "gameplay": "6adb355420455953"
+      },
+      "inventory": {
+        "RED": 5,
+        "BLUE": 4,
+        "YELLOW": 1,
+        "GREEN": 4
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.418,
+          "y": 0.5,
+          "isLocked": true,
+          "currentColor": "RED",
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.583,
+          "y": 0.5,
+          "isLocked": true,
+          "currentColor": "GREEN",
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.5,
+          "y": 0.15,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.388,
+          "y": 0.272,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.612,
+          "y": 0.272,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.5,
+          "y": 0.85,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.388,
+          "y": 0.728,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.612,
+          "y": 0.728,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.15,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.272,
+          "y": 0.388,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.272,
+          "y": 0.612,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.85,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n13",
+          "x": 0.728,
+          "y": 0.388,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n14",
+          "x": 0.728,
+          "y": 0.612,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n3",
+          "n5"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n1",
+          "n4"
+        ],
+        [
+          "n2",
+          "n5"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n6",
+          "n8"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n1",
+          "n7"
+        ],
+        [
+          "n2",
+          "n8"
+        ],
+        [
+          "n9",
+          "n10"
+        ],
+        [
+          "n9",
+          "n11"
+        ],
+        [
+          "n10",
+          "n11"
+        ],
+        [
+          "n1",
+          "n10"
+        ],
+        [
+          "n1",
+          "n11"
+        ],
+        [
+          "n12",
+          "n13"
+        ],
+        [
+          "n12",
+          "n14"
+        ],
+        [
+          "n13",
+          "n14"
+        ],
+        [
+          "n2",
+          "n13"
+        ],
+        [
+          "n2",
+          "n14"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c5_l01",
+      "chapterId": 5,
+      "levelNumber": 1,
+      "overallIndex": 121,
+      "title": "Lưới Đa Giác Dày Đặc",
+      "difficulty": 4.0,
+      "calculatedDifficulty": 4.39,
+      "nodeCount": 13,
+      "edgeCount": 30,
+      "colorCount": 4,
+      "density": 0.385,
+      "lockedNodes": 0,
+      "restrictedNodes": 2,
+      "solutionCount": 2,
+      "minNodeDistance": 0.17888543819998315,
+      "signatures": {
+        "topology": "2e0aafa2fcb85439",
+        "layout": "7c6eb645facbaf88",
+        "gameplay": "-328cdd6e21104d6a"
+      },
+      "inventory": {
+        "RED": 3,
+        "BLUE": 3,
+        "YELLOW": 3,
+        "GREEN": 4
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.5,
+          "y": 0.12,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.82,
+          "y": 0.28,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.82,
+          "y": 0.72,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.5,
+          "y": 0.88,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.18,
+          "y": 0.72,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.18,
+          "y": 0.28,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.5,
+          "y": 0.32,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        },
+        {
+          "id": "n8",
+          "x": 0.66,
+          "y": 0.4,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.66,
+          "y": 0.6,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.5,
+          "y": 0.68,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.34,
+          "y": 0.6,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.34,
+          "y": 0.4,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n13",
+          "x": 0.5,
+          "y": 0.5,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "GREEN",
+            "RED",
+            "BLUE"
+          ]
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n1"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n8",
+          "n9"
+        ],
+        [
+          "n9",
+          "n10"
+        ],
+        [
+          "n10",
+          "n11"
+        ],
+        [
+          "n11",
+          "n12"
+        ],
+        [
+          "n12",
+          "n7"
+        ],
+        [
+          "n1",
+          "n7"
+        ],
+        [
+          "n2",
+          "n8"
+        ],
+        [
+          "n3",
+          "n9"
+        ],
+        [
+          "n4",
+          "n10"
+        ],
+        [
+          "n5",
+          "n11"
+        ],
+        [
+          "n6",
+          "n12"
+        ],
+        [
+          "n1",
+          "n8"
+        ],
+        [
+          "n2",
+          "n9"
+        ],
+        [
+          "n3",
+          "n10"
+        ],
+        [
+          "n4",
+          "n11"
+        ],
+        [
+          "n5",
+          "n12"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n13",
+          "n7"
+        ],
+        [
+          "n13",
+          "n8"
+        ],
+        [
+          "n13",
+          "n9"
+        ],
+        [
+          "n13",
+          "n10"
+        ],
+        [
+          "n13",
+          "n11"
+        ],
+        [
+          "n13",
+          "n12"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c5_l02",
+      "chapterId": 5,
+      "levelNumber": 2,
+      "overallIndex": 122,
+      "title": "Mạng Ngũ Sắc Grötzsch",
+      "difficulty": 4.3,
+      "calculatedDifficulty": 4.56,
+      "nodeCount": 15,
+      "edgeCount": 28,
+      "colorCount": 5,
+      "density": 0.267,
+      "lockedNodes": 0,
+      "restrictedNodes": 3,
+      "solutionCount": 2,
+      "minNodeDistance": 0.18999999999999995,
+      "signatures": {
+        "topology": "3ba28e594d6743f3",
+        "layout": "17428b19243e573c",
+        "gameplay": "-71711357374b8eca"
+      },
+      "inventory": {
+        "RED": 1,
+        "BLUE": 4,
+        "YELLOW": 1,
+        "GREEN": 3,
+        "PURPLE": 6
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.5,
+          "y": 0.139,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.797,
+          "y": 0.282,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.87,
+          "y": 0.604,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.665,
+          "y": 0.861,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.335,
+          "y": 0.861,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.13,
+          "y": 0.604,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.203,
+          "y": 0.282,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.595,
+          "y": 0.321,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "PURPLE",
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        },
+        {
+          "id": "n9",
+          "x": 0.714,
+          "y": 0.47,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "PURPLE",
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        },
+        {
+          "id": "n10",
+          "x": 0.672,
+          "y": 0.656,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.5,
+          "y": 0.739,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.328,
+          "y": 0.656,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n13",
+          "x": 0.286,
+          "y": 0.47,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n14",
+          "x": 0.405,
+          "y": 0.321,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n15",
+          "x": 0.5,
+          "y": 0.519,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "BLUE",
+            "RED",
+            "YELLOW",
+            "GREEN"
+          ]
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n7",
+          "n1"
+        ],
+        [
+          "n8",
+          "n1"
+        ],
+        [
+          "n8",
+          "n2"
+        ],
+        [
+          "n15",
+          "n8"
+        ],
+        [
+          "n9",
+          "n2"
+        ],
+        [
+          "n9",
+          "n3"
+        ],
+        [
+          "n15",
+          "n9"
+        ],
+        [
+          "n10",
+          "n3"
+        ],
+        [
+          "n10",
+          "n4"
+        ],
+        [
+          "n15",
+          "n10"
+        ],
+        [
+          "n11",
+          "n4"
+        ],
+        [
+          "n11",
+          "n5"
+        ],
+        [
+          "n15",
+          "n11"
+        ],
+        [
+          "n12",
+          "n5"
+        ],
+        [
+          "n12",
+          "n6"
+        ],
+        [
+          "n15",
+          "n12"
+        ],
+        [
+          "n13",
+          "n6"
+        ],
+        [
+          "n13",
+          "n7"
+        ],
+        [
+          "n15",
+          "n13"
+        ],
+        [
+          "n14",
+          "n7"
+        ],
+        [
+          "n14",
+          "n1"
+        ],
+        [
+          "n15",
+          "n14"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c6_l01",
+      "chapterId": 6,
+      "levelNumber": 1,
+      "overallIndex": 151,
+      "title": "Tam Cụm Hoàng Gia",
+      "difficulty": 4.7,
+      "calculatedDifficulty": 5.0,
+      "nodeCount": 16,
+      "edgeCount": 27,
+      "colorCount": 5,
+      "density": 0.225,
+      "lockedNodes": 2,
+      "restrictedNodes": 2,
+      "solutionCount": 2,
+      "minNodeDistance": 0.16462381358722072,
+      "signatures": {
+        "topology": "7c08d365622055ca",
+        "layout": "10ee62224bb455b4",
+        "gameplay": "-7468286e74568fec"
+      },
+      "inventory": {
+        "RED": 5,
+        "BLUE": 2,
+        "YELLOW": 1,
+        "GREEN": 5,
+        "PURPLE": 3
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.5,
+          "y": 0.158,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.357,
+          "y": 0.262,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.649,
+          "y": 0.25,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.506,
+          "y": 0.332,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.204,
+          "y": 0.712,
+          "isLocked": true,
+          "currentColor": "PURPLE",
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.115,
+          "y": 0.558,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.28,
+          "y": 0.565,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.325,
+          "y": 0.824,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.103,
+          "y": 0.842,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.796,
+          "y": 0.71,
+          "isLocked": true,
+          "currentColor": "PURPLE",
+          "restrictedColors": null
+        },
+        {
+          "id": "n11",
+          "x": 0.722,
+          "y": 0.562,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.887,
+          "y": 0.559,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n13",
+          "x": 0.897,
+          "y": 0.84,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n14",
+          "x": 0.676,
+          "y": 0.824,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n15",
+          "x": 0.414,
+          "y": 0.469,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "GREEN",
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        },
+        {
+          "id": "n16",
+          "x": 0.579,
+          "y": 0.48,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "BLUE",
+            "RED",
+            "YELLOW",
+            "GREEN"
+          ]
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n1",
+          "n3"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n2",
+          "n4"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n5",
+          "n7"
+        ],
+        [
+          "n5",
+          "n8"
+        ],
+        [
+          "n5",
+          "n9"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n8",
+          "n9"
+        ],
+        [
+          "n9",
+          "n6"
+        ],
+        [
+          "n10",
+          "n11"
+        ],
+        [
+          "n10",
+          "n12"
+        ],
+        [
+          "n10",
+          "n13"
+        ],
+        [
+          "n10",
+          "n14"
+        ],
+        [
+          "n11",
+          "n12"
+        ],
+        [
+          "n12",
+          "n13"
+        ],
+        [
+          "n13",
+          "n14"
+        ],
+        [
+          "n14",
+          "n11"
+        ],
+        [
+          "n4",
+          "n15"
+        ],
+        [
+          "n4",
+          "n16"
+        ],
+        [
+          "n15",
+          "n16"
+        ],
+        [
+          "n15",
+          "n7"
+        ],
+        [
+          "n16",
+          "n11"
+        ],
+        [
+          "n8",
+          "n14"
+        ]
+      ],
+      "validationErrors": []
+    },
+    {
+      "id": "proto_c6_l02",
+      "chapterId": 6,
+      "levelNumber": 2,
+      "overallIndex": 152,
+      "title": "Mạng Nhện Đa Tầng Bất Quy Tắc",
+      "difficulty": 5.0,
+      "calculatedDifficulty": 5.0,
+      "nodeCount": 18,
+      "edgeCount": 35,
+      "colorCount": 5,
+      "density": 0.229,
+      "lockedNodes": 3,
+      "restrictedNodes": 3,
+      "solutionCount": 2,
+      "minNodeDistance": 0.16471186963907605,
+      "signatures": {
+        "topology": "3835543e8b95dcf2",
+        "layout": "76976a9399765a38",
+        "gameplay": "5c8050b282b26a18"
+      },
+      "inventory": {
+        "RED": 4,
+        "BLUE": 4,
+        "YELLOW": 4,
+        "GREEN": 5,
+        "PURPLE": 1
+      },
+      "nodes": [
+        {
+          "id": "n1",
+          "x": 0.49,
+          "y": 0.103,
+          "isLocked": true,
+          "currentColor": "BLUE",
+          "restrictedColors": null
+        },
+        {
+          "id": "n2",
+          "x": 0.769,
+          "y": 0.231,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n3",
+          "x": 0.903,
+          "y": 0.508,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n4",
+          "x": 0.805,
+          "y": 0.796,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n5",
+          "x": 0.51,
+          "y": 0.897,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n6",
+          "x": 0.231,
+          "y": 0.769,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n7",
+          "x": 0.097,
+          "y": 0.492,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n8",
+          "x": 0.195,
+          "y": 0.204,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n9",
+          "x": 0.58,
+          "y": 0.241,
+          "isLocked": true,
+          "currentColor": "GREEN",
+          "restrictedColors": null
+        },
+        {
+          "id": "n10",
+          "x": 0.749,
+          "y": 0.449,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "YELLOW",
+            "RED",
+            "BLUE",
+            "GREEN"
+          ]
+        },
+        {
+          "id": "n11",
+          "x": 0.666,
+          "y": 0.706,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n12",
+          "x": 0.419,
+          "y": 0.759,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "GREEN",
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        },
+        {
+          "id": "n13",
+          "x": 0.251,
+          "y": 0.551,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n14",
+          "x": 0.333,
+          "y": 0.294,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n15",
+          "x": 0.427,
+          "y": 0.43,
+          "isLocked": true,
+          "currentColor": "YELLOW",
+          "restrictedColors": null
+        },
+        {
+          "id": "n16",
+          "x": 0.59,
+          "y": 0.406,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n17",
+          "x": 0.573,
+          "y": 0.57,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": null
+        },
+        {
+          "id": "n18",
+          "x": 0.41,
+          "y": 0.594,
+          "isLocked": false,
+          "currentColor": null,
+          "restrictedColors": [
+            "PURPLE",
+            "RED",
+            "BLUE",
+            "YELLOW"
+          ]
+        }
+      ],
+      "edges": [
+        [
+          "n1",
+          "n2"
+        ],
+        [
+          "n2",
+          "n3"
+        ],
+        [
+          "n3",
+          "n4"
+        ],
+        [
+          "n4",
+          "n5"
+        ],
+        [
+          "n5",
+          "n6"
+        ],
+        [
+          "n6",
+          "n7"
+        ],
+        [
+          "n7",
+          "n8"
+        ],
+        [
+          "n8",
+          "n1"
+        ],
+        [
+          "n9",
+          "n10"
+        ],
+        [
+          "n10",
+          "n11"
+        ],
+        [
+          "n11",
+          "n12"
+        ],
+        [
+          "n12",
+          "n13"
+        ],
+        [
+          "n13",
+          "n14"
+        ],
+        [
+          "n14",
+          "n9"
+        ],
+        [
+          "n15",
+          "n16"
+        ],
+        [
+          "n16",
+          "n17"
+        ],
+        [
+          "n17",
+          "n18"
+        ],
+        [
+          "n18",
+          "n15"
+        ],
+        [
+          "n15",
+          "n17"
+        ],
+        [
+          "n9",
+          "n1"
+        ],
+        [
+          "n9",
+          "n2"
+        ],
+        [
+          "n10",
+          "n2"
+        ],
+        [
+          "n10",
+          "n3"
+        ],
+        [
+          "n11",
+          "n4"
+        ],
+        [
+          "n11",
+          "n5"
+        ],
+        [
+          "n12",
+          "n5"
+        ],
+        [
+          "n12",
+          "n6"
+        ],
+        [
+          "n13",
+          "n6"
+        ],
+        [
+          "n13",
+          "n7"
+        ],
+        [
+          "n14",
+          "n8"
+        ],
+        [
+          "n14",
+          "n1"
+        ],
+        [
+          "n9",
+          "n15"
+        ],
+        [
+          "n10",
+          "n16"
+        ],
+        [
+          "n12",
+          "n17"
+        ],
+        [
+          "n14",
+          "n18"
+        ]
+      ],
+      "validationErrors": []
+    }
+  ]
+}

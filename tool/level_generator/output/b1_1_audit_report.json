@@ -1,0 +1,367 @@
+{
+  "auditTimestamp": "2026-11-17T22:25:42.889386",
+  "totalCandidates": 12,
+  "isomorphismAudit": {
+    "totalPairsCompared": 66,
+    "isomorphicPairs": 0,
+    "nonIsomorphicPairs": 66,
+    "uniqueCanonicalCodes": 12,
+    "uniqueGameplaySignatures": 12,
+    "duplicatePairs": []
+  },
+  "geometricQualitySummary": {
+    "totalBoundaryViolations": 0,
+    "totalEdgesPassingThroughNodes": 0,
+    "totalCrossings": 0
+  },
+  "levelsAudit": [
+    {
+      "id": "proto_c1_l01",
+      "title": "Nhánh Cây Đầu Tiên",
+      "chapterId": 1,
+      "levelNumber": 1,
+      "canonicalCode": "V5:E4:0100010101",
+      "signatures": {
+        "topology1WL": "6ad6700fbae0c5d6",
+        "canonical": "V5:E4:0100010101",
+        "layout": "2402ed78782278d3",
+        "gameplay": "-a0628a04ede89eb"
+      },
+      "difficulty": {
+        "raw": 1.19,
+        "clamped": 1.19,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.2,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.5,
+        "boundingBoxHeight": 0.6,
+        "boundingBoxAreaUtilization": 0.425,
+        "centerOfMassOffset": 0.067,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c1_l02",
+      "title": "Bậc Thang Lục Điểm",
+      "chapterId": 1,
+      "levelNumber": 2,
+      "canonicalCode": "V6:E7:101000010011110",
+      "signatures": {
+        "topology1WL": "-53256388f846d2a8",
+        "canonical": "V6:E7:101000010011110",
+        "layout": "-1c7dadd06daf94b4",
+        "gameplay": "-6d24b1a1faadbdbf"
+      },
+      "difficulty": {
+        "raw": 1.257,
+        "clamped": 1.26,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.25,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.5,
+        "boundingBoxHeight": 0.4,
+        "boundingBoxAreaUtilization": 0.283,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c2_l01",
+      "title": "Bánh Xe Tam Sắc",
+      "chapterId": 2,
+      "levelNumber": 1,
+      "canonicalCode": "V7:E12:110100011000101110111",
+      "signatures": {
+        "topology1WL": "3e0b9ec2d62363c5",
+        "canonical": "V7:E12:110100011000101110111",
+        "layout": "-38b662f7e58b1a24",
+        "gameplay": "-29ab98e145857176"
+      },
+      "difficulty": {
+        "raw": 1.983,
+        "clamped": 1.98,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.34,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.588,
+        "boundingBoxHeight": 0.68,
+        "boundingBoxAreaUtilization": 0.567,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c2_l02",
+      "title": "Chuỗi Tam Giác Kép",
+      "chapterId": 2,
+      "levelNumber": 2,
+      "canonicalCode": "V8:E11:0010000001001001100110101101",
+      "signatures": {
+        "topology1WL": "1ade599916012951",
+        "canonical": "V8:E11:0010000001001001100110101101",
+        "layout": "-72be3a3aa33eb536",
+        "gameplay": "-2a5d41f074f9790"
+      },
+      "difficulty": {
+        "raw": 1.988,
+        "clamped": 1.99,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.201,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.7,
+        "boundingBoxHeight": 0.5,
+        "boundingBoxAreaUtilization": 0.496,
+        "centerOfMassOffset": 0.031,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c3_l01",
+      "title": "Cầu Nối Song Đỉnh",
+      "chapterId": 3,
+      "levelNumber": 1,
+      "canonicalCode": "V9:E12:000100010100100001100001101001001100",
+      "signatures": {
+        "topology1WL": "-e3d79d885b828be",
+        "canonical": "V9:E12:000100010100100001100001101001001100",
+        "layout": "-3c2abd83f7edc3d3",
+        "gameplay": "-426456a5a32a1391"
+      },
+      "difficulty": {
+        "raw": 2.753,
+        "clamped": 2.75,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.165,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.7,
+        "boundingBoxHeight": 0.56,
+        "boundingBoxAreaUtilization": 0.556,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c3_l02",
+      "title": "Bánh Xe Tinh Tú",
+      "chapterId": 3,
+      "levelNumber": 2,
+      "canonicalCode": "V11:E17:0000010000000100000010010001000100000010110010101011111",
+      "signatures": {
+        "topology1WL": "-164e9207da8f9de3",
+        "canonical": "V11:E17:0000010000000100000010010001000100000010110010101011111",
+        "layout": "541d2e31bd9dba87",
+        "gameplay": "5cbd6d621e2fbbb4"
+      },
+      "difficulty": {
+        "raw": 2.927,
+        "clamped": 2.93,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.179,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.7,
+        "boundingBoxHeight": 0.65,
+        "boundingBoxAreaUtilization": 0.645,
+        "centerOfMassOffset": 0.02,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c4_l01",
+      "title": "Lục Giác Giao Thoa",
+      "chapterId": 4,
+      "levelNumber": 1,
+      "canonicalCode": "V12:E15:000000001111000100000000000010110000000010000001000001000101011000",
+      "signatures": {
+        "topology1WL": "79add462e85466fe",
+        "canonical": "V12:E15:000000001111000100000000000010110000000010000001000001000101011000",
+        "layout": "40fc6e4e6b0a1b8d",
+        "gameplay": "5c4bf87dd6e4a84c"
+      },
+      "difficulty": {
+        "raw": 3.607,
+        "clamped": 3.61,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.164,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.7,
+        "boundingBoxHeight": 0.5,
+        "boundingBoxAreaUtilization": 0.496,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c4_l02",
+      "title": "Tứ Trận Cầu Nối",
+      "chapterId": 4,
+      "levelNumber": 2,
+      "canonicalCode": "V14:E21:0010010000010000100000101000001010000010000000001010000000001000000010010010010100001001011",
+      "signatures": {
+        "topology1WL": "-680da2bab84caf37",
+        "canonical": "V14:E21:0010010000010000100000101000001010000010000000001010000000001000000010010010010100001001011",
+        "layout": "-324ff5c5671ea8ec",
+        "gameplay": "6adb355420455953"
+      },
+      "difficulty": {
+        "raw": 3.708,
+        "clamped": 3.71,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.164,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.7,
+        "boundingBoxHeight": 0.7,
+        "boundingBoxAreaUtilization": 0.694,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c5_l01",
+      "title": "Lưới Đa Giác Dày Đặc",
+      "chapterId": 5,
+      "levelNumber": 1,
+      "canonicalCode": "V13:E30:100011000010000010001111100110000010101000010101000001010000100110010101011011",
+      "signatures": {
+        "topology1WL": "2e0aafa2fcb85439",
+        "canonical": "V13:E30:100011000010000010001111100110000010101000010101000001010000100110010101011011",
+        "layout": "7c6eb645facbaf88",
+        "gameplay": "-328cdd6e21104d6a"
+      },
+      "difficulty": {
+        "raw": 4.386,
+        "clamped": 4.39,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.179,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.64,
+        "boundingBoxHeight": 0.76,
+        "boundingBoxAreaUtilization": 0.689,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c5_l02",
+      "title": "Mạng Ngũ Sắc Grötzsch",
+      "chapterId": 5,
+      "levelNumber": 2,
+      "canonicalCode": "V15:E28:100001010001000100001010000001111111000100000110000000101001000000110000001000000011000000000010000000101",
+      "signatures": {
+        "topology1WL": "3ba28e594d6743f3",
+        "canonical": "V15:E28:100001010001000100001010000001111111000100000110000000101001000000110000001000000011000000000010000000101",
+        "layout": "17428b19243e573c",
+        "gameplay": "-71711357374b8eca"
+      },
+      "difficulty": {
+        "raw": 4.557,
+        "clamped": 4.56,
+        "isClamped": false
+      },
+      "geometric": {
+        "minNodeDistance": 0.19,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.74,
+        "boundingBoxHeight": 0.722,
+        "boundingBoxAreaUtilization": 0.757,
+        "centerOfMassOffset": 0.019,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c6_l01",
+      "title": "Tam Cụm Hoàng Gia",
+      "chapterId": 6,
+      "levelNumber": 1,
+      "canonicalCode": "V16:E27:011000010010000001100011000001000000011000100000001000100000001000000100100100000001000000111000010000010001001000000001",
+      "signatures": {
+        "topology1WL": "7c08d365622055ca",
+        "canonical": "V16:E27:011000010010000001100011000001000000011000100000001000100000001000000100100100000001000000111000010000010001001000000001",
+        "layout": "10ee62224bb455b4",
+        "gameplay": "-7468286e74568fec"
+      },
+      "difficulty": {
+        "raw": 5.306,
+        "clamped": 5.0,
+        "isClamped": true
+      },
+      "geometric": {
+        "minNodeDistance": 0.165,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.794,
+        "boundingBoxHeight": 0.684,
+        "boundingBoxAreaUtilization": 0.77,
+        "centerOfMassOffset": 0.059,
+        "isCleanAndSafe": true
+      }
+    },
+    {
+      "id": "proto_c6_l02",
+      "title": "Mạng Nhện Đa Tầng Bất Quy Tắc",
+      "chapterId": 6,
+      "levelNumber": 2,
+      "canonicalCode": "V18:E35:010000001010000000100001010000000000000000101000000000000100010110000010000110000001000100000001000000000010110000100010001000010100001100010110011010001",
+      "signatures": {
+        "topology1WL": "3835543e8b95dcf2",
+        "canonical": "V18:E35:010000001010000000100001010000000000000000101000000000000100010110000010000110000001000100000001000000000010110000100010001000010100001100010110011010001",
+        "layout": "76976a9399765a38",
+        "gameplay": "5c8050b282b26a18"
+      },
+      "difficulty": {
+        "raw": 5.587,
+        "clamped": 5.0,
+        "isClamped": true
+      },
+      "geometric": {
+        "minNodeDistance": 0.165,
+        "boundaryViolations": [],
+        "nonIncidentEdgeCrossings": 0,
+        "edgesPassingThroughUnrelatedNodes": [],
+        "boundingBoxWidth": 0.806,
+        "boundingBoxHeight": 0.794,
+        "boundingBoxAreaUtilization": 0.907,
+        "centerOfMassOffset": 0.0,
+        "isCleanAndSafe": true
+      }
+    }
+  ]
+}
